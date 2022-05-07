@@ -1,0 +1,60 @@
+{"movie": [  {
+  "id":1,
+  "Title":"Spiderman",
+  "Release_Date": "2021-12-17",
+  "Actors": ["Tom Holland", "Zendayya"],
+  "Director": "Jon Watts",
+  "Rating": 8.5,
+  "length": 148,
+  "Awards": "Kids Choice Award for Favorite Movie Actress"
+},
+{
+  "id":2,
+  "Title":"The Gentlemen",
+  "Release_Date": "2020-01-24",
+  "Actors": ["Matthew McConaughey" ,"Hunnam"],
+  "Director": "Guy Ritchie",
+  "Rating": 7.8,
+  "length": 133,
+  "Awards": "Best Action/Adventure Film"
+},
+{
+  "id":3,
+  "Title":"Bird of Prey",
+  "Release_Date": "2020-02-07",
+  "Actors": ["Chris Messina","Rosie Perez"],
+  "Director": "Cathy Yan",
+  "Rating": 6.1,
+  "length": 109,
+  "Awards": "Favorite Action Movie"
+},
+{
+  "id":4,
+  "Title":"Horse Girl",
+  "Release_Date": "2020-01-27",
+  "Actors": ["John Ortiz", "Alison Brie"],
+  "Director": "Jeff Baena",
+  "Rating": 5.9,
+  "length": 103,
+  "Awards": "Outstanding Feature Film"
+},
+{
+  "id":5,
+  "Title":"Color Out of Space",
+  "Release_Date": "2020-01-24",
+  "Actors": ["Nicolas Cage","Joely Richardson"],
+  "Director": "Richard Stanley",
+  "Rating": 6.1,
+  "length": 111,
+  "Awards": "Best Independent Film"
+},
+{
+  "id":6,
+  "Title":"The Invisible Man",
+  "Release_Date": "2020-02-24",
+  "Actors": ["Aldis Hodge", "Elisabeth Moss"],
+  "Director": "Leigh Whannell",
+  "Rating": 7.1,
+  "length": 124,
+  "Awards": "Best Actress"
+}]}
